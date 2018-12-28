@@ -1,0 +1,5 @@
+intents   -->	things you expect users to say. See Rasa NLU
+actions   -->	things your bot can do and say
+templates -->	template strings for the things your bot can say
+entities  -->	pieces of info you want to extract from messages. See Rasa NLU
+slots     -->	information to keep track of during a conversation (e.g. a users age) - see Using Slots

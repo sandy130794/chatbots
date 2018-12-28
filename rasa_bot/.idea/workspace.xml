@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1674f33e-61f2-4245-a8c6-49cba75cefd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/rasa_core/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/docs/_static/spec/server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/docs/_static/spec/server.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/examples/concertbot/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/examples/concertbot/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/examples/concertbot/train_online.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/examples/concertbot/train_online.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/examples/concertbot/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/examples/concertbot/visualize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/examples/restaurantbot/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/examples/restaurantbot/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/dispatcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/dispatcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/events/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/events/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/featurizers.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/featurizers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/policies/embedding_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/policies/embedding_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/policies/keras_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/policies/keras_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/policies/memoization.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/policies/memoization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/policies/policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/policies/policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/policies/sklearn_policy.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/policies/sklearn_policy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/training/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/training/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/training/online.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/training/online.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/training/visualization.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/training/visualization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/rasa_core/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/rasa_core/visualize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_dialogues.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_dialogues.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_dsl.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_dsl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_events.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_online.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_online.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_policies.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_policies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_restore.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_restore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_tracker_stores.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_tracker_stores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_trackers.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_trackers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_training.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_core/tests/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_core/tests/test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/docker/docker-cloud.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/docker/docker-cloud.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/docker/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/classifiers/embedding_intent_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/classifiers/embedding_intent_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/classifiers/mitie_intent_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/classifiers/mitie_intent_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/classifiers/sklearn_intent_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/classifiers/sklearn_intent_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/components.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/components.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/convert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/emulators/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/emulators/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/emulators/dialogflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/emulators/dialogflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/emulators/luis.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/emulators/luis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/emulators/wit.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/emulators/wit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/evaluate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/extractors/crf_entity_extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/extractors/crf_entity_extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/extractors/entity_synonyms.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/extractors/entity_synonyms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/featurizers/count_vectors_featurizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/featurizers/count_vectors_featurizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/featurizers/ngram_featurizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/featurizers/ngram_featurizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/dialogflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/dialogflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/luis.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/luis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/markdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/markdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/rasa.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/rasa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/wit.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/formats/wit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/loading.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/loading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/training_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/training_data/training_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/utils/mitie_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/rasa_nlu/utils/mitie_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_jieba_mitie_sklearn.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_jieba_mitie_sklearn.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_mitie.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_mitie.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_mitie_sklearn.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_mitie_sklearn.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_train_server_json.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_train_server_json.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_train_server_md.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/sample_configs/config_train_server_md.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_components.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_components.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_emulators.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_emulators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_featurizers.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_featurizers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_interpreter.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_interpreter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_multitenancy.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_multitenancy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_persistor.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_persistor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/base/test_training_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/base/test_training_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/example_component.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/example_component.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/training/test_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/training/test_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rasa_nlu/tests/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/rasa_nlu/tests/utilities.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="292905660">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.27" value="3" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="chatito" value="3" />
+          <entry key="commands_for_rasa" value="1" />
+          <entry key="expected_ctc" value="1" />
+          <entry key="json" value="3" />
+          <entry key="py" value="5" />
+          <entry key="txt" value="1" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="3" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="5" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="chatito" value="1" />
+          <entry key="json" value="620" />
+          <entry key="py" value="1046" />
+          <entry key="yml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="620" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="1046" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sentiment_analysis/nltk_file_one.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>configure_colo</find>
+      <find>config</find>
+      <find>load</find>
+      <find>parse_args</find>
+      <find>add_logging_option_arguments</find>
+      <find>configure_colored_logging</find>
+      <find>-</find>
+      <find>path</find>
+      <find>project</find>
+      <find>data_endpoint</find>
+      <find>num_threads</find>
+      <find>file_config</find>
+      <find>do_train</find>
+      <find>RasaNLUModelConfig</find>
+      <find>read_yaml_file</find>
+      <find>goodbye</find>
+      <find>right now</find>
+      <find>If you are ok with Telephonic, I am fine with it.</find>
+      <find>curre</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/rasa_nlu/docker</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/rasa_nlu" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rasa_nlu/rasa_nlu/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/rasa_nlu/rasa_nlu/config.py" />
+        <option value="$PROJECT_DIR$/rasa_nlu/rasa_nlu/train.py" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/custom.yml" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/customer_intent.yml" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/chatito_files.chatito/current_location.chatito" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/chatito_files.chatito/preffered_location.chatito" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/chatito_files.chatito/current_ctc.chatito" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/chatito_files.chatito/expected_ctc" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/custom_sklearn.yml" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/customer.json" />
+        <option value="$PROJECT_DIR$/customer_bot/bot_builder/custom_spacy.yml" />
+        <option value="$PROJECT_DIR$/sentiment_analysis/nltk_file_one.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="5" />
+    <option name="width" value="1280" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rasa_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rasa_bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sentiment_analysis" />
+      <recent name="$PROJECT_DIR$/customer_bot/bot_builder/lookup_tables" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1674f33e-61f2-4245-a8c6-49cba75cefd4" name="Default Changelist" comment="" />
+      <created>1537954727461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537954727461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="35" y="27" width="1331" height="741" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17813456" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.397351" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32919255" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1766513" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rasa_nlu/rasa_nlu/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="174" column="67" selection-start-line="174" selection-start-column="67" selection-end-line="174" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commands_for_rasa">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rasa_nlu/rasa_nlu/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rasa_nlu/rasa_nlu/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rasa_nlu/rasa_nlu/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/chatito_files.chatito/preffered_location.chatito" />
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/chatito_files.chatito/current_location.chatito" />
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/chatito_files.chatito/current_ctc.chatito" />
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/chatito_files.chatito/expected_ctc.chatito" />
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/custom_tensorflow.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/customer_project/customer_model/entity_synonyms.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/customer_project/customer_model/metadata.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/customer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16260">
+          <caret line="1084" column="8" selection-start-line="1084" selection-start-column="8" selection-end-line="1084" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/lookup_tables/certifications.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/customer_intent_entity.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer_bot/bot_builder/custom_spacy.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentiment_analysis/nltk_file_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

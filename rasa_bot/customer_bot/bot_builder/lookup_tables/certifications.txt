@@ -1,0 +1,74 @@
+AWS Certified Solutions Architect - Associate
+AWS Certified Developer - Associate
+AWS Certified SysOps Administrator - Associate
+AWS Certified Solutions Architect - Professional
+AWS Certified DevOps Engineer - Professional
+AWS Certified Big Data – Specialty
+AWS Certified Advanced Networking – Specialty
+CCENT Certification
+CCNA Certification
+CCDA Certification
+CCNP Routing & Switching
+A+ Certification
+Network+ Certification
+Security+ Certification
+Healthcare IT Technician Certificate
+Server+ Certification
+Project+ Certification
+CompTIA Advanced Security Practitioner
+Linux+ Certification
+CTT+ Certification
+Mobile App Security+
+ENSA: Network Security Administrator
+CEH: Certified Ethical Hacker
+ECSA: Certified Security Analyst
+LPT: Licensed Penetration Tester
+CHFI: Computer Hacking Forensic Investigator
+Certification in the Governance of Enterprise IT (CGEIT
+Certified in Risk and Information Systems Control (CRISC)
+Certified Information Security Manager (CISM)
+Certified Information Systems Auditor (CISA)
+CISSP Certification
+CyberSAFE ™ (Securing Assets For the End User)
+CyberSec First Responder ™ (CFR)
+Certified Virtualization Professional (CVP)
+NCTA CloudMASTER
+Cyber Secure Coder (CSC)
+Master Mobile Application Developer (MMAD)
+Master Mobile Application Security (MMAS)
+Microsoft Technology Associate (MTA) certifications
+Microsoft Certified Solutions Associate (MCSA) certifications
+Microsoft Certified Solutions Expert (MCSE) certifications
+Microsoft Certified Solutions Developer (MCSD) certifications
+Microsoft Office Specialist (MOS)
+Microsoft Certified Trainer (MCT)
+Microsoft Certified Systems Engineer (MCSE)
+Microsoft Certified Technology Specialist (MCTS)
+Microsoft Certified Professional Developer (MCPD)
+Microsoft Certified IT Professional (MCITP)
+Microsoft Certified Architect (MCA)
+Microsoft Certified Solutions Master (MCSM)
+Oracle Certified Associate - DBA 11g
+Oracle Certified Professional - DBA 11g
+PMP Certification
+VMware Certified Professional (VCP)
+VMware Certified Associate (VCA-DT)
+VMware Certified Advanced Professional (VCAP)
+VMware Certified Professional (VCP-DT)
+VMware Certified Design Expert (VCDX)
+VMware Certified Advanced Professional (VCAP-DT)
+Adobe Certified Expert (ACE)
+Adobe Certified Associate (ACA)
+Certified Internet Recruiter (CIR)
+Advanced Certified Internet Recruiter (ACIR)
+Certified Diversity Recruiter (CDR)
+Certified Social Sourcing Recruiter (CSSR)
+Certified Social Media Recruiter (CSMR)
+Professional Recruiter Certification (PRC)
+Certified Personnel Consultant (CPC)
+Orange Belt in Internet Recruitment
+Blue Belt in Internet Recruitment
+Brown Belt in Internet Recruitment
+Black Belt in Internet Recruitment
+Certified People Sourcing Professional 1 (CPSP -1)
+Certified People Sourcing Professional 2 (CPSP-2)

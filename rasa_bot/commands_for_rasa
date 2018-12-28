@@ -1,0 +1,67 @@
+########## Rasa_NLU ##########
+
+##### Command For Training Our Machine Learning NLU model #####
+1) python -m rasa_nlu.train -c nlu_config.yml --data nlu.md -o models --fixed_model_name nlu --project current --verbose
+
+#####
+1) There are two ways you can use your model, directly from python, or by starting a http server. 
+   Details of running the Rasa NLU HTTP server are in config.
+
+2) To use your new model in python, create an Interpreter object and pass a message to its parse() method:
+
+##### Code #####
+
+from rasa_nlu.model import Interpreter
+import json
+interpreter = Interpreter.load("./models/current/nlu")
+message = "let's see some italian restaurants"
+result = interpreter.parse(message)
+print(json.dumps(result, indent=2))
+
+##### Curl Commands
+1) curl -X POST "localhost:5000/parse" -d "{/"q/":/"I am looking for Mexican food/"}" | python -m json.tool
+
+
+########## Rasa_Core ##########
+
+##### Command For Running Our Model in a server #####
+1) python -m rasa_core.train -d domain.yml -s stories.md -o models/dialogue
+
+##### Talking To Our Bot #####
+Now we can use that trained dialogue model to run our bot. We haven’t included an NLU model yet, 
+though, so we have to send structured data to our bot directly.
+
+We can play around with the bot, directly sending in the intents in the domain. 
+To do this, start your message with a /. Give it a try by sending the message /greet.
+
+If we are running these commands locally, run:
+
+2) python -m rasa_core.run -d models/dialogue
+
+##### Code #####
+
+import IPython
+from IPython.display import clear_output
+from rasa_core.agent import Agent
+import time
+
+messages = ["Hi! you can chat in this window. Type 'stop' to end the conversation."]
+agent = Agent.load('models/dialogue')
+
+def chatlogs_html(messages):
+    messages_html = "".join(["<p>{}</p>".format(m) for m in messages])
+    chatbot_html = """<div class="chat-window" {}</div>""".format(messages_html)
+    return chatbot_html
+
+
+while True:
+    clear_output()
+    display(IPython.display.HTML(chatlogs_html(messages)))
+    time.sleep(0.3)
+    a = input()
+    messages.append(a)
+    if a == 'stop':
+        break
+    responses = agent.handle_message(a)
+    for r in responses:
+        messages.append(r.get("text"))

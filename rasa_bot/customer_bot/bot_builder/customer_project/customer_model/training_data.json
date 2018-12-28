@@ -1,0 +1,1189 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "heya"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see ya"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "Lets have a chat some other time"
+      },
+      {
+        "intent": "greet",
+        "text": "Good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "Good afternoon"
+      },
+      {
+        "intent": "greet",
+        "text": "Good evening"
+      },
+      {
+        "intent": "greet",
+        "text": "Morning!"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "preffered_location",
+            "start": 25,
+            "value": "Madaras"
+          }
+        ],
+        "text": "I would like to shift to Madaras"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 18,
+            "entity": "preffered_location",
+            "start": 9,
+            "value": "Bengalore"
+          }
+        ],
+        "text": "I prefer Bengalore"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "preffered_location",
+            "start": 27,
+            "value": "vjy"
+          }
+        ],
+        "text": "I am interested to work in vjy"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "preffered_location",
+            "start": 25,
+            "value": "Delhi"
+          }
+        ],
+        "text": "I would like to shift to Delhi"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "preffered_location",
+            "start": 28,
+            "value": "Bezawada"
+          }
+        ],
+        "text": "I would like to relocate to Bezawada"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 24,
+            "entity": "preffered_location",
+            "start": 19,
+            "value": "Delhi"
+          }
+        ],
+        "text": "I like to shift to Delhi"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "preffered_location",
+            "start": 19,
+            "value": "Madaras"
+          }
+        ],
+        "text": "I like to shift to Madaras"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "preffered_location",
+            "start": 19,
+            "value": "Bengalore"
+          }
+        ],
+        "text": "I like to shift to Bengalore"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "preffered_location",
+            "start": 27,
+            "value": "Bengalore"
+          }
+        ],
+        "text": "I would like to shift near Bengalore"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "preffered_location",
+            "start": 24,
+            "value": "HYD"
+          }
+        ],
+        "text": "I would love to work in HYD"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 21,
+            "entity": "current_location",
+            "start": 18,
+            "value": "hyd"
+          }
+        ],
+        "text": "right now I am at hyd"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "current_location",
+            "start": 11,
+            "value": "Bezawada"
+          }
+        ],
+        "text": "working in Bezawada"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "current_location",
+            "start": 8,
+            "value": "Madaras"
+          }
+        ],
+        "text": "present Madaras"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "current_location",
+            "start": 13,
+            "value": "Madaras"
+          }
+        ],
+        "text": "currently in Madaras"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "current_location",
+            "start": 18,
+            "value": "Bengalore"
+          }
+        ],
+        "text": "right now I am at Bengalore"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "current_location",
+            "start": 11,
+            "value": "Bengalore"
+          }
+        ],
+        "text": "working in Bengalore"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "current_location",
+            "start": 26,
+            "value": "Madaras"
+          }
+        ],
+        "text": "currently I am working at Madaras"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "current_location",
+            "start": 18,
+            "value": "Bezawada"
+          }
+        ],
+        "text": "right now I am at Bezawada"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "current_location",
+            "start": 26,
+            "value": "hyd"
+          }
+        ],
+        "text": "currently I am working at hyd"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 18,
+            "entity": "current_location",
+            "start": 11,
+            "value": "Madaras"
+          }
+        ],
+        "text": "working in Madaras"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 22,
+            "entity": "current_ctc",
+            "start": 17,
+            "value": "83LPA"
+          }
+        ],
+        "text": "presently my ctc 83LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "current_ctc",
+            "start": 18,
+            "value": "70.84LPA"
+          }
+        ],
+        "text": "present my ctc is 70.84LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "current_ctc",
+            "start": 20,
+            "value": "12LPA"
+          }
+        ],
+        "text": "right now my ctc is 12LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "current_ctc",
+            "start": 21,
+            "value": "27 LPA"
+          }
+        ],
+        "text": "my present salary is 27 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 22,
+            "entity": "current_ctc",
+            "start": 13,
+            "value": "40.17 LPA"
+          }
+        ],
+        "text": "I am getting 40.17 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "current_ctc",
+            "start": 23,
+            "value": "52.90 LPA"
+          }
+        ],
+        "text": "right now I am getting 52.90 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "current_ctc",
+            "start": 20,
+            "value": "66.45LPA"
+          }
+        ],
+        "text": "my ctc is nearly to 66.45LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "current_ctc",
+            "start": 13,
+            "value": "32 LPA"
+          }
+        ],
+        "text": "I am getting 32 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "current_ctc",
+            "start": 17,
+            "value": "64.20LPA"
+          }
+        ],
+        "text": "presently my ctc 64.20LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "current_ctc",
+            "start": 22,
+            "value": "64.51 LPA"
+          }
+        ],
+        "text": "my salary is close to 64.51 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "expected_ctc",
+            "start": 24,
+            "value": "34LPA"
+          }
+        ],
+        "text": "I am expecting raise of 34LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "expected_ctc",
+            "start": 26,
+            "value": "95LPA"
+          }
+        ],
+        "text": "I am expectiong growth of 95LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "expected_ctc",
+            "start": 24,
+            "value": "82 LPA"
+          }
+        ],
+        "text": "I am expecting raise of 82 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "expected_ctc",
+            "start": 24,
+            "value": "13.98 LPA"
+          }
+        ],
+        "text": "I am expecting raise of 13.98 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "expected_ctc",
+            "start": 24,
+            "value": "36 LPA"
+          }
+        ],
+        "text": "I am expecting raise of 36 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 21,
+            "entity": "expected_ctc",
+            "start": 16,
+            "value": "87LPA"
+          }
+        ],
+        "text": "I want raise of 87LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "expected_ctc",
+            "start": 24,
+            "value": "78.85LPA"
+          }
+        ],
+        "text": "I am expecting raise of 78.85LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 21,
+            "entity": "expected_ctc",
+            "start": 16,
+            "value": "50LPA"
+          }
+        ],
+        "text": "I want raise of 50LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "expected_ctc",
+            "start": 24,
+            "value": "58.63 LPA"
+          }
+        ],
+        "text": "I am expecting raise of 58.63 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "expected_ctc",
+            "start": 9,
+            "value": "12 LPA"
+          }
+        ],
+        "text": "I prefer 12 LPA"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 16,
+            "value": "tech lead",
+            "entity": "designation"
+          }
+        ],
+        "text": "I am a tech lead"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 12,
+            "end": 28,
+            "value": "trainee enginner",
+            "entity": "designation"
+          }
+        ],
+        "text": "i work as a trainee enginner"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 20,
+            "value": "sales manager",
+            "entity": "designation"
+          }
+        ],
+        "text": "I am a sales manager"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 10,
+            "end": 21,
+            "value": " Devops team",
+            "entity": "designation"
+          }
+        ],
+        "text": "i work as Devops team"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 18,
+            "end": 36,
+            "value": "Associate Engineer",
+            "entity": "designation"
+          }
+        ],
+        "text": "My Designation is Associate Engineer"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 5,
+            "end": 26,
+            "value": "Application Developer",
+            "entity": "designation"
+          }
+        ],
+        "text": "I am Application Developer"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 12,
+            "end": 39,
+            "value": "Application Support Analyst",
+            "entity": "designation"
+          }
+        ],
+        "text": "i work as a Application Support Analyst"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 29,
+            "value": " Applications Engineer",
+            "entity": "designation"
+          }
+        ],
+        "text": "I am a  Applications Engineer"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 10,
+            "end": 29,
+            "value": "Associate Developer",
+            "entity": "designation"
+          }
+        ],
+        "text": "i work as Associate Developer"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 18,
+            "end": 43,
+            "value": "Chief Information Officer",
+            "entity": "designation"
+          }
+        ],
+        "text": "My Designation is Chief Information Officer (CIO)"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "java certified",
+            "entity": "certification"
+          }
+        ],
+        "text": "java certified"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 5,
+            "end": 28,
+            "value": "AWS certified developer",
+            "entity": "certification"
+          }
+        ],
+        "text": "I am AWS certified developer"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 20,
+            "value": "certification",
+            "entity": "certification"
+          }
+        ],
+        "text": "I have certification in Python"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 7,
+            "end": 19,
+            "value": "certificates",
+            "entity": "certification"
+          }
+        ],
+        "text": "I have certificates in the python and Java"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "certification",
+            "start": 25,
+            "value": "Mobile App Security+"
+          }
+        ],
+        "text": "I got certification from Mobile App Security+"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "certification",
+            "start": 5,
+            "value": "Oracle Certified Master"
+          }
+        ],
+        "text": "I am Oracle Certified Master"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "certification",
+            "start": 25,
+            "value": "Certified Ethical Hacker"
+          }
+        ],
+        "text": "I got certification from Certified Ethical Hacker"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 61,
+            "entity": "certification",
+            "start": 25,
+            "value": "Healthcare IT Technician Certificate"
+          }
+        ],
+        "text": "I got certification from Healthcare IT Technician Certificate"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "certification",
+            "start": 16,
+            "value": "PMP Certification"
+          }
+        ],
+        "text": "I was certified PMP Certification"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "certification",
+            "start": 10,
+            "value": "VMware Certified Design Expert"
+          }
+        ],
+        "text": "certified VMware Certified Design Expert"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Tomorrow",
+            "entity": "available_date"
+          }
+        ],
+        "text": "Tomorrow I am avalible"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "Day after tomorrow",
+            "entity": "available_date"
+          }
+        ],
+        "text": "Day after tomorrow is fine for me."
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 0,
+            "end": 17,
+            "value": "Next week any day",
+            "entity": "available_date"
+          }
+        ],
+        "text": "Next week any day is fine for me"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Anydate",
+            "entity": "available_date"
+          }
+        ],
+        "text": "Anydate is fine for me."
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 23,
+            "end": 34,
+            "value": "next Monday",
+            "entity": "available_date"
+          }
+        ],
+        "text": "Yes, I am available on next Monday."
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 49,
+            "end": 64,
+            "value": "12/0ctober/2018",
+            "entity": "available_date"
+          }
+        ],
+        "text": "Yes, I can be available for an interview on date 12/0ctober/2018"
+      },
+      {
+        "intent": "job_search",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "Noida",
+            "entity": "location"
+          }
+        ],
+        "text": "I am looking for a job in Noida"
+      },
+      {
+        "intent": "job_search",
+        "entities": [
+          {
+            "start": 41,
+            "end": 48,
+            "value": "Chennai",
+            "entity": "location"
+          },
+          {
+            "start": 17,
+            "end": 31,
+            "value": "Java developer",
+            "entity": "skill"
+          }
+        ],
+        "text": "I am looking for Java developer job near Chennai"
+      },
+      {
+        "intent": "job_search",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "python",
+            "entity": "skill"
+          }
+        ],
+        "text": "I am looking for python job"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 20,
+            "end": 24,
+            "value": "21st",
+            "entity": "available_date"
+          }
+        ],
+        "text": "I am available this 21st of this month"
+      },
+      {
+        "intent": "job_search",
+        "entities": [
+          {
+            "start": 18,
+            "end": 47,
+            "value": "anytime on 14th of this month",
+            "entity": "available_date"
+          }
+        ],
+        "text": "I am available on anytime on 14th of this month"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 19,
+            "end": 38,
+            "value": "Skype or Telephonic",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I am available for Skype or Telephonic interview"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 29,
+            "end": 41,
+            "value": "face to face",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I am looking forward for the face to face interview"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 19,
+            "end": 31,
+            "value": "face to face",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I am available for face to face interview"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "skype",
+            "entity": "mode_of_interview"
+          },
+          {
+            "start": 35,
+            "end": 48,
+            "value": "next Thuseday",
+            "entity": "available_date"
+          }
+        ],
+        "text": "I am available for skype interview next Thuseday"
+      },
+      {
+        "intent": "job_search",
+        "entities": [
+          {
+            "start": 32,
+            "end": 41,
+            "value": "Bangalore",
+            "entity": "location"
+          },
+          {
+            "start": 17,
+            "end": 23,
+            "value": "python",
+            "entity": "skill"
+          }
+        ],
+        "text": "I am looking for python jobs in Bangalore"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 24,
+            "end": 29,
+            "value": "skype",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "Yes, I am available for skype interview"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "Skype",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I am available for Skype interview"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 19,
+            "end": 29,
+            "value": "Telephonic",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I am available for Telephonic interview"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 19,
+            "end": 31,
+            "value": "Face to face",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I am available for Face to face interview"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Hangouts",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "Hangouts interview is fine for me."
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 6,
+            "end": 20,
+            "value": "come in person",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I can come in person also."
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 19,
+            "end": 29,
+            "value": "Telephonic",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "If you are ok with Telephonic, I am fine with it."
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 18,
+            "end": 26,
+            "value": "any mode",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I am flexible for any mode of interview"
+      },
+      {
+        "intent": "schedule_intent",
+        "entities": [
+          {
+            "start": 12,
+            "end": 19,
+            "value": "anytype",
+            "entity": "mode_of_interview"
+          }
+        ],
+        "text": "I am ok for anytype of interview"
+      },
+      {
+        "intent": "goodbye",
+        "text": "May be some other time"
+      },
+      {
+        "intent": "goodbye",
+        "text": "we can discuss this thing later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "later"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "pune",
+            "entity": "current_location"
+          }
+        ],
+        "text": "right now i am in pune"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 18,
+            "end": 29,
+            "value": "kanyakumari",
+            "entity": "current_location"
+          }
+        ],
+        "text": "right now i am in kanyakumari"
+      },
+      {
+        "intent": "candidate_info",
+        "entities": [
+          {
+            "start": 18,
+            "end": 31,
+            "value": "East-Godavari",
+            "entity": "current_location"
+          }
+        ],
+        "text": "right now i am in East-Godavari"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [
+      {
+        "name": "designation",
+        "elements": "/home/sandeep/Documents/rasa_bot/customer_bot/bot_builder/lookup_tables/designations.txt"
+      },
+      {
+        "name": "certification",
+        "elements": "/home/sandeep/Documents/rasa_bot/customer_bot/bot_builder/lookup_tables/certifications.txt"
+      }
+    ],
+    "entity_synonyms": [
+      {
+        "value": "Chennai",
+        "synonyms": [
+          "Madaras"
+        ]
+      },
+      {
+        "value": "Vijayawada",
+        "synonyms": [
+          "vjy",
+          "Bezawada"
+        ]
+      },
+      {
+        "value": "Hyderabad",
+        "synonyms": [
+          "hyd",
+          "HYD"
+        ]
+      }
+    ]
+  }
+}

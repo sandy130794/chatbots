@@ -1,0 +1,91 @@
+slots:
+  context:
+    type: text
+  location:
+    type: text
+  skill:
+    type: text
+  current_location:
+    type: text
+  preffered_location:
+    type: text
+  skill_Set:
+    type: text
+  experience:
+    type: text
+  noticeperiod:
+    type: text
+  designation:
+    type: text
+  current_ctc:
+    type: text
+  expected_ctc:
+    type: text
+  certifiaction:
+    type: text
+  available_date:
+    type: text
+  mode_of_interview:
+    type: text
+
+intents:
+  - greet
+  - job_search
+  - candidate_info
+  - schedule_intent
+  - goodbye
+
+entities:
+  - location
+  - skill
+  - current_location.chatito
+  - preffered_location
+  - skill_set
+  - experience
+  - current_ctc
+  - expected_ctc.chatito
+  - noticeperiod
+  - designation
+  - certifications
+  - available_date
+  - mode_of_interview
+
+templates:
+  utter_greet:
+    - "hello, Welcome to Cutomer_bot"
+  utter_free:
+    - "How may I help You?"
+  utter_currentlocation:
+    - "whats your current working location ?"
+  utter_relocate:
+    - "Do you want to relocate?"
+  utter_currentctc:
+    - "what is your current CTC"
+  utter_expectedctc:
+    - "what is the expected CTC"
+  utter_noticeperiod:
+    - "what is your notice period?"
+  utter_experience:
+    - "What is your experience?"
+  utter_schedule:
+    - "When can we meet for interview?"
+  utter_goodbye:
+    - "goodbye :("
+    - "Bye-bye"
+  utter_default:
+    - "Ok..will get to that.Can you answer my question"
+
+actions:
+  - utter_default
+  - utter_greet
+  - utter_free
+  - utter_currentlocation
+  - utter_relocate
+  - utter_currentctc
+  - utter_expectedctc
+  - utter_experience
+  - utter_noticeperiod
+  - utter_schedule
+  - utter_goodbye
+  - actions.ActionScheduleInterview
+  - actions.ActionGenerator

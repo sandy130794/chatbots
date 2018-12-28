@@ -1,0 +1,33 @@
+%[location]('training': '20')
+    @[current_location]  @[preffered_location] 
+@[current_location]
+    ~[current] @[location]
+~[current]
+    present
+    currently in
+    right now
+    I am from
+    working in
+    I come from
+    currently working in
+@[preffered_location]
+    ~[preffered] @[location]
+~[preffered]
+    prefer
+    I like
+    I like to shift to
+    relocate
+    would like to shift
+    would love to work in
+    i love
+
+@[location]
+    ~[hyderabad]
+    pune
+    ~[chennai]
+~[hyderabad]
+    hyderabad
+    hyd
+~[chennai]
+    madras
+    chennai
