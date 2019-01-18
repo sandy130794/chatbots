@@ -1,0 +1,27 @@
+slots:
+  location:
+    type: text
+  skills:
+    type: text
+  no_of_days:
+    type: text
+  designation:
+    type: text
+  
+  
+intents:
+  - greet
+  - goodbye
+  - positive_ack
+  - negative_ack
+  - show_jobs
+  - apply_jobs
+  - apply_leave
+  - notice_period
+  - feedback
+
+entities:
+  - location
+  - skills
+  - no_of_days
+  - designation

@@ -1,0 +1,5116 @@
+{  
+    "rasa_nlu_data":{  
+        "common_examples":[  
+            {  
+                "text":"howdy hey hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi good afternoon hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"whats up good morning",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"morning hello hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good afternoon howdy howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola are you there howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how is it going greetings",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you around hey hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola good afternoon",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey hola hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi how is it going",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"whats up hola hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good afternoon are you around?",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"whatsup hey hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola how are things going howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola good afternoon howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you around? howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good morning greetings",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"howdy hola hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good day hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi whats up",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hello how are you hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you there hola hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are you doing good morning",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi whatsup",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you around hey hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi howdy hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are you doing how are you doing",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey how are things going hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sup howdy hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola how is it going hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you around hello hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good day how is it going",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hello hola hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi good night hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good morning howdy hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hello whats up hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are things going hola howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are you how are things going",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey how are you doing howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good afternoon hey hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"howdy are you there hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are you hi hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"morning good day",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola good night hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you there hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good day are you there",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi hey hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good night hello hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey good morning howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hello sup hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are things going hey hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are you how are you",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you there hello hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"howdy how are you hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey howdy hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you around? hello howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi sup hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you there good night",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola how is it going hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"morning hi hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"greetings hi hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola greetings hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you around whatsup",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi greetings howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good night howdy hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are things going how are you doing",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"greetings hello hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hello are you around howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi hello hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sup good afternoon",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hola are you there hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you around? hola hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey how are things going hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good night hi hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are things going morning",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey howdy hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"greetings howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi how is it going howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"whats up hi hey",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good morning how are you doing",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey good afternoon",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are things going hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hello howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"morning are you there",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"howdy good afternoon hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good morning hi hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi how are you hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"are you around? hey howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good day greetings",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey hey hi",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"whats up hi hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hello how are you doing",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hi are you around howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"good day hola howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"morning greetings",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sup hola",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hey hello hello",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"how are you howdy howdy",
+                "intent":"greet",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"Mm-uhh",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"Mmm",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"Hmmm",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"absoultely",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"agreed",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"all right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"alrighty",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"as you wish",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"aye",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"certainly",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"definitely",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"exactly",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"fair enough",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"gladly",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"great",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"hmm",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"indeed",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"obviously",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"okay",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"perfect",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"postively",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"precisely",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sounds good",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sure",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sure i can!",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sure thing",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sure,no problem",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"surely",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"that's right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"very well",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"well",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"well and good",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ya",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yay",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yea",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yeah",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yup",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes,i agree with you",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes,it was!",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto si correcto affirmative",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"you're goddamn correct",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"you got that affirmative",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative yep please",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct you understood me",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes that is yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"is good",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"si right correcto allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative right correcto",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right yes sir si yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes to that yes sir right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes allright yes yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right yes sir correcto allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"si yes sir right yes sir",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok correct right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok ok si yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"si yep yep right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir correcto si yes sir",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok allright si",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir ok yep si",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir yes allright right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right yes sir yes to that allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right yep ok",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto affirmative allright yep",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct right si right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir right correcto yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep yep right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"si allright si yep",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"allright correcto yes to that right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"allright si affirmative correcto",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative si yes correct",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto ok yep yes sir",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"allright right ok affirmative",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative affirmative correct correct",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir allright affirmative correct",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep yep allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative yep yes yes to that",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative si right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct si right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative correct right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right yes sir affirmative",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir correct correct yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right allright si yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok right yes to that yes sir",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct right correcto correcto",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes to that yep right ok",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto yes to that ok",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto correct affirmative right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok right allright si",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep right yes sir right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative right ok",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right si correct allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes to that yep allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto ok allright correct",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto si yep correct",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right ok yes sir right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok correct yes sir correcto",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct right yes si",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes to that correcto ok allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep allright si allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep si affirmative allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes correcto affirmative yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right si affirmative right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes to that correct allright yes to that",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes yep si right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes right allright allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"allright si ok right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok yep correcto affirmative",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto ok ok ok",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"allright right yes to that yes to that",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right si si yes sir",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto correct yes sir si",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct yes si yes to that",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"affirmative yes sir affirmative yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"right ok correct yep",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct correcto yes to that si",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir affirmative yes sir yes to that",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep yes sir yes to that affirmative",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto si yes to that yep",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir correct yes yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"si allright correcto right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes correcto yep right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes ok right right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep yes yes sir ok",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok right yes sir",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes correcto ok yep",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct yep correct right",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"si yep yes sir allright",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto allright yes ok",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep correcto correcto yes to that",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correct correct yes to that",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"si yep",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"allright right correct",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correcto yep yep",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep affirmative allright yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yep yes yes si",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ok si yes yes to that",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"yes sir allright right yes sir",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"allright si yes to that yes",
+                "intent":"positive_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"absolutely not",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"absoultely not",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"by no means",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"denial",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"i can't do what you are asking",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nah",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nay",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"neither",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"never",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no fear",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no one",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sorry",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"sorry, no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no thanks",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no way",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"none",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nop",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not any",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not at all",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not by any means",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not likely",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not now",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not possible",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not this time",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"simply no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"there is no way",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"unfortunately not",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correction",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"Correction",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correction",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"correction",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct no sir please",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative bad",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope not good no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong its not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no its not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope didnt meant that negative",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect no nope",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect dont desire that wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope its not correct incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir no not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"its not ok",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir its not correct no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong im not good with that incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong negative no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct didnt meant that negative",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct its not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope not correct no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope dont agree on that incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope no sir wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir incorrect please",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct im not ok with that incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope its bad",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect wrong wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no not correct negative",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative not good nope",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no not correct wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative not good incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative not what i want",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct definitely no not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir dont agree on that negative",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope no no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir im not ok with that not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope didnt meant that wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct its not correct incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct not correct incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect wrong no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct im not ok with that not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative its not ok negative",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct negative no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative didnt meant that no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no definitely no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"definitely no not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect negative no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative its bad incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope that is bad",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct wrong no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no dont agree on that no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir not good for me nope",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"dont mean that no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no its not ok negative",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect no please",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong nope no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no dont mean that not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong nope",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope its not ok negative",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative its bad no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope incorrect not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir that is bad incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative its not ok wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct no nope",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect that is bad negative",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct its not ok",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative not good for me incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative dont agree on that not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no please",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong no incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"definitely no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct its not ok no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative dont desire that incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct dont desire that no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope not good for me no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct im not ok with that no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no dont mean that no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct incorrect wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct not good for me",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope im not ok with that not correct",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect negative incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"not correct not good for me no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect not good for me no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"incorrect dont mean that no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope nope no sir",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no no sir please",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope bad no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no bad nope",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir not what i want no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative not correct nope",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong its bad no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir its bad",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"nope its not ok wrong",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"no sir no sir incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"negative definitely no no",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"wrong wrong incorrect",
+                "intent":"negative_ack",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go adios",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go farewell farewell bye got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later bye bye chao have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"chau gtg talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out chau gtg goodbye leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later gtg chao talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go farewell adios farewell got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out ttyl chao im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"im leaving now farewell farewell talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"adios farewell got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"bye goodbye adios im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out bye adios im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go adios gtg im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you soon goodbye goodbye chau talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out gtg gtg got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out bye adieu going out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out goodbye ttyl ttyl got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving adios chao ttyl leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go chau bye talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"goodbye gtg chau heading out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you soon ttyl chao ttyl have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving gtg gtg adieu im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"chau gtg gtg heading out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"im leaving now farewell adieu adieu talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go farewell",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later bye bye chao talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later ttyl adios bye",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"chau farewell chao",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out goodbye chau chao got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving gtg goodbye farewell talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"goodbye bye goodbye leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out farewell going out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you soon farewell chau adieu got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"ttyl adios chau talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go ttyl goodbye chau have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later gtg adieu farewell",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go goodbye goodbye goodbye going out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out ttyl goodbye going out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out gtg gtg ttyl im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out bye adios talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go chau gtg goodbye leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go ttyl goodbye",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving bye adieu adieu im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"chau adieu got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"farewell gtg bye going out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"farewell adieu have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later gtg adios ttyl leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out bye bye chau",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later farewell farewell farewell talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later adieu chau chau",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving chao ttyl adieu",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go ttyl chao im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out goodbye chao gtg talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"im leaving now ttyl bye gtg heading out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later chao chau farewell got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving adieu going out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go bye adios gtg talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go adios chao gtg talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you soon gtg adios adios heading out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"adios ttyl ttyl",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"chau ttyl adieu got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go ttyl chau chao leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving farewell bye goodbye have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"goodbye ttyl im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out adios adieu chau im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving farewell adios adieu got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go ttyl bye adieu talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go goodbye bye adios have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out farewell ttyl adieu talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go adieu adieu goodbye have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go adieu chau adios im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you soon chao adios leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later adieu chao chao",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you soon goodbye farewell bye heading out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving ttyl farewell chau leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you soon chau goodbye adieu have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out farewell chau got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later chau gtg chau im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go gtg goodbye bye leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go bye bye ttyl talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out gtg chao chao",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go goodbye bye bye heading out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go farewell adios gtg talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"adios chao bye talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"going out chao bye chau got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later adieu chau farewell",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later gtg goodbye bye got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go chao bye adieu talk to you later",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later ttyl ttyl adieu going out",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"im leaving now farewell chau gtg leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving adieu adios farewell im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later chau goodbye chao got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you soon chau adieu farewell leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go chao chau adios im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"leaving adios adieu bye im leaving now",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"heading out ttyl chau farewell talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"talk to you later goodbye adios chao have to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"chau chau adieu leaving",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"have to go chau adieu goodbye got to go",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            },
+            {  
+                "text":"got to go gtg bye chau talk to you soon",
+                "intent":"goodbye",
+                "entities":[  
+
+                ]
+            }
+            {
+                "text": "I am searching for Advanced Java jobs in Tadipatri",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 32,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Advanced Java"
+                  },
+                  {
+                    "end": 50,
+                    "entity": "location",
+                    "start": 41,
+                    "value": "Tadipatri"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for a job at Kakinada",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 36,
+                    "entity": "location",
+                    "start": 28,
+                    "value": "Kakinada"
+                  }
+                ]
+              },
+              {
+                "text": "ASP.NET jobs in Karimnagar",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 7,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "ASP.NET"
+                  },
+                  {
+                    "end": 26,
+                    "entity": "location",
+                    "start": 16,
+                    "value": "Karimnagar"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Spring job",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 23,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Spring"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for NodeJS jobs around Murwara",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 23,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "NodeJS"
+                  },
+                  {
+                    "end": 43,
+                    "entity": "location",
+                    "start": 36,
+                    "value": "Murwara"
+                  }
+                ]
+              },
+              {
+                "text": "XML jobs near Hajipur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 3,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "XML"
+                  },
+                  {
+                    "end": 21,
+                    "entity": "location",
+                    "start": 14,
+                    "value": "Hajipur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Android jobs around Bahraich",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 26,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Android"
+                  },
+                  {
+                    "end": 47,
+                    "entity": "location",
+                    "start": 39,
+                    "value": "Bahraich"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Automation Anywhere jobs at Ongole",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 38,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Automation Anywhere"
+                  },
+                  {
+                    "end": 53,
+                    "entity": "location",
+                    "start": 47,
+                    "value": "Ongole"
+                  }
+                ]
+              },
+              {
+                "text": "Blockchain jobs in Shimla",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 10,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Blockchain"
+                  },
+                  {
+                    "end": 25,
+                    "entity": "location",
+                    "start": 19,
+                    "value": "Shimla"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Spring Boot jobs near Amroha",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 30,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Spring Boot"
+                  },
+                  {
+                    "end": 47,
+                    "entity": "location",
+                    "start": 41,
+                    "value": "Amroha"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Struts jobs in Sonipat",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 23,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Struts"
+                  },
+                  {
+                    "end": 39,
+                    "entity": "location",
+                    "start": 32,
+                    "value": "Sonipat"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for C Language jobs in Khora",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 27,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "C Language"
+                  },
+                  {
+                    "end": 41,
+                    "entity": "location",
+                    "start": 36,
+                    "value": "Khora"
+                  }
+                ]
+              },
+              {
+                "text": "Angular4 jobs near Bahraich",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 8,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Angular4"
+                  },
+                  {
+                    "end": 27,
+                    "entity": "location",
+                    "start": 19,
+                    "value": "Bahraich"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for DevOps jobs in Kottayam",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 25,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "DevOps"
+                  },
+                  {
+                    "end": 42,
+                    "entity": "location",
+                    "start": 34,
+                    "value": "Kottayam"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Core Java jobs near Kollam",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 26,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Core Java"
+                  },
+                  {
+                    "end": 43,
+                    "entity": "location",
+                    "start": 37,
+                    "value": "Kollam"
+                  }
+                ]
+              },
+              {
+                "text": "Java Training jobs near Hugli and Chinsurah",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 13,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Java Training"
+                  },
+                  {
+                    "end": 43,
+                    "entity": "location",
+                    "start": 24,
+                    "value": "Hugli and Chinsurah"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Selenium jobs in Surat",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 27,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Selenium"
+                  },
+                  {
+                    "end": 41,
+                    "entity": "location",
+                    "start": 36,
+                    "value": "Surat"
+                  }
+                ]
+              },
+              {
+                "text": "Struts jobs at Lucknow",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 6,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Struts"
+                  },
+                  {
+                    "end": 22,
+                    "entity": "location",
+                    "start": 15,
+                    "value": "Lucknow"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Web Services jobs in Baharampur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 29,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Web Services"
+                  },
+                  {
+                    "end": 48,
+                    "entity": "location",
+                    "start": 38,
+                    "value": "Baharampur"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for PHP with MySQL jobs near Bihar Sharif",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 31,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "PHP with MySQL"
+                  },
+                  {
+                    "end": 54,
+                    "entity": "location",
+                    "start": 42,
+                    "value": "Bihar Sharif"
+                  }
+                ]
+              },
+              {
+                "text": "Ui Technologies jobs near Mangalore",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 15,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Ui Technologies"
+                  },
+                  {
+                    "end": 35,
+                    "entity": "location",
+                    "start": 26,
+                    "value": "Mangalore"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for PHP with MySQL jobs in Panvel",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 31,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "PHP with MySQL"
+                  },
+                  {
+                    "end": 46,
+                    "entity": "location",
+                    "start": 40,
+                    "value": "Panvel"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for C#.NET jobs near Satna",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 23,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "C#.NET"
+                  },
+                  {
+                    "end": 39,
+                    "entity": "location",
+                    "start": 34,
+                    "value": "Satna"
+                  }
+                ]
+              },
+              {
+                "text": "Artificial Intelligence jobs near Gaya",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 23,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Artificial Intelligence"
+                  },
+                  {
+                    "end": 38,
+                    "entity": "location",
+                    "start": 34,
+                    "value": "Gaya"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for C Language jobs near Bhatpara",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 29,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "C Language"
+                  },
+                  {
+                    "end": 48,
+                    "entity": "location",
+                    "start": 40,
+                    "value": "Bhatpara"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for DevOps jobs at Solapur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 25,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "DevOps"
+                  },
+                  {
+                    "end": 41,
+                    "entity": "location",
+                    "start": 34,
+                    "value": "Solapur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Android jobs in Patna",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 26,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Android"
+                  },
+                  {
+                    "end": 40,
+                    "entity": "location",
+                    "start": 35,
+                    "value": "Patna"
+                  }
+                ]
+              },
+              {
+                "text": "AngularJS jobs at Ranchi",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 9,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "AngularJS"
+                  },
+                  {
+                    "end": 24,
+                    "entity": "location",
+                    "start": 18,
+                    "value": "Ranchi"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Advanced Java jobs in Muzaffarnagar",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 32,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Advanced Java"
+                  },
+                  {
+                    "end": 54,
+                    "entity": "location",
+                    "start": 41,
+                    "value": "Muzaffarnagar"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for UI UX jobs at Raipur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 24,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "UI UX"
+                  },
+                  {
+                    "end": 39,
+                    "entity": "location",
+                    "start": 33,
+                    "value": "Raipur"
+                  }
+                ]
+              },
+              {
+                "text": "XML jobs at Raichur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 3,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "XML"
+                  },
+                  {
+                    "end": 19,
+                    "entity": "location",
+                    "start": 12,
+                    "value": "Raichur"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for HTML5 CSS3 jobs around Kolkata",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 27,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "HTML5 CSS3"
+                  },
+                  {
+                    "end": 47,
+                    "entity": "location",
+                    "start": 40,
+                    "value": "Kolkata"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Spring Boot jobs around Serampore",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 28,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Spring Boot"
+                  },
+                  {
+                    "end": 50,
+                    "entity": "location",
+                    "start": 41,
+                    "value": "Serampore"
+                  }
+                ]
+              },
+              {
+                "text": "PHP with MySQL jobs around Dhanbad",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 14,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "PHP with MySQL"
+                  },
+                  {
+                    "end": 34,
+                    "entity": "location",
+                    "start": 27,
+                    "value": "Dhanbad"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for CRT jobs around Tumkur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 20,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "CRT"
+                  },
+                  {
+                    "end": 39,
+                    "entity": "location",
+                    "start": 33,
+                    "value": "Tumkur"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for HTML5 CSS3 jobs around Dhule",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 27,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "HTML5 CSS3"
+                  },
+                  {
+                    "end": 45,
+                    "entity": "location",
+                    "start": 40,
+                    "value": "Dhule"
+                  }
+                ]
+              },
+              {
+                "text": "Angular7 jobs around Tirunelveli",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 8,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Angular7"
+                  },
+                  {
+                    "end": 32,
+                    "entity": "location",
+                    "start": 21,
+                    "value": "Tirunelveli"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for C++ jobs near Hindupur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 22,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "C++"
+                  },
+                  {
+                    "end": 41,
+                    "entity": "location",
+                    "start": 33,
+                    "value": "Hindupur"
+                  }
+                ]
+              },
+              {
+                "text": "Data Science jobs around Navi Mumbai",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 12,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Data Science"
+                  },
+                  {
+                    "end": 36,
+                    "entity": "location",
+                    "start": 25,
+                    "value": "Navi Mumbai"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Core Java jobs in Sambhal",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 26,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Core Java"
+                  },
+                  {
+                    "end": 42,
+                    "entity": "location",
+                    "start": 35,
+                    "value": "Sambhal"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Blockchain jobs in Guntur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 29,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Blockchain"
+                  },
+                  {
+                    "end": 44,
+                    "entity": "location",
+                    "start": 38,
+                    "value": "Guntur"
+                  }
+                ]
+              },
+              {
+                "text": "RPA jobs in Durg",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 3,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "RPA"
+                  },
+                  {
+                    "end": 16,
+                    "entity": "location",
+                    "start": 12,
+                    "value": "Durg"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Automation Anywhere jobs near Rae Bareli",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 38,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Automation Anywhere"
+                  },
+                  {
+                    "end": 59,
+                    "entity": "location",
+                    "start": 49,
+                    "value": "Rae Bareli"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Advanced Java jobs near Etawah",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 30,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Advanced Java"
+                  },
+                  {
+                    "end": 47,
+                    "entity": "location",
+                    "start": 41,
+                    "value": "Etawah"
+                  }
+                ]
+              },
+              {
+                "text": "C#.NET jobs in Bellary",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 6,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "C#.NET"
+                  },
+                  {
+                    "end": 22,
+                    "entity": "location",
+                    "start": 15,
+                    "value": "Bellary"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for C++ jobs at Dindigul",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 22,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "C++"
+                  },
+                  {
+                    "end": 39,
+                    "entity": "location",
+                    "start": 31,
+                    "value": "Dindigul"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Core Java jobs near Dehradun",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 26,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Core Java"
+                  },
+                  {
+                    "end": 45,
+                    "entity": "location",
+                    "start": 37,
+                    "value": "Dehradun"
+                  }
+                ]
+              },
+              {
+                "text": "Data Structure jobs in Karnal",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 14,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Data Structure"
+                  },
+                  {
+                    "end": 29,
+                    "entity": "location",
+                    "start": 23,
+                    "value": "Karnal"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for ASP.NET jobs in Eluru",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 24,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "ASP.NET"
+                  },
+                  {
+                    "end": 38,
+                    "entity": "location",
+                    "start": 33,
+                    "value": "Eluru"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for UI UX jobs in Avadi",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 22,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "UI UX"
+                  },
+                  {
+                    "end": 36,
+                    "entity": "location",
+                    "start": 31,
+                    "value": "Avadi"
+                  }
+                ]
+              },
+              {
+                "text": "Android jobs around Maheshtala",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 7,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Android"
+                  },
+                  {
+                    "end": 30,
+                    "entity": "location",
+                    "start": 20,
+                    "value": "Maheshtala"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Python jobs near Gangtok",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 25,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Python"
+                  },
+                  {
+                    "end": 43,
+                    "entity": "location",
+                    "start": 36,
+                    "value": "Gangtok"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Automation Anywhere jobs at Kanpur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 38,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Automation Anywhere"
+                  },
+                  {
+                    "end": 53,
+                    "entity": "location",
+                    "start": 47,
+                    "value": "Kanpur"
+                  }
+                ]
+              },
+              {
+                "text": "iPhone jobs in Korba",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 6,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "iPhone"
+                  },
+                  {
+                    "end": 20,
+                    "entity": "location",
+                    "start": 15,
+                    "value": "Korba"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for RPA jobs in Sambalpur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 22,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "RPA"
+                  },
+                  {
+                    "end": 40,
+                    "entity": "location",
+                    "start": 31,
+                    "value": "Sambalpur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Angular7 jobs around Tadipatri",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 27,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Angular7"
+                  },
+                  {
+                    "end": 49,
+                    "entity": "location",
+                    "start": 40,
+                    "value": "Tadipatri"
+                  }
+                ]
+              },
+              {
+                "text": "Apache Spark jobs around Latur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 12,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Apache Spark"
+                  },
+                  {
+                    "end": 30,
+                    "entity": "location",
+                    "start": 25,
+                    "value": "Latur"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for SQL Server jobs around Tadipatri",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 27,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "SQL Server"
+                  },
+                  {
+                    "end": 49,
+                    "entity": "location",
+                    "start": 40,
+                    "value": "Tadipatri"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Android jobs near Meerut",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 24,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Android"
+                  },
+                  {
+                    "end": 41,
+                    "entity": "location",
+                    "start": 35,
+                    "value": "Meerut"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Core Java jobs near Rajkot",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 26,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Core Java"
+                  },
+                  {
+                    "end": 43,
+                    "entity": "location",
+                    "start": 37,
+                    "value": "Rajkot"
+                  }
+                ]
+              },
+              {
+                "text": "Oracle jobs at Ozhukarai",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 6,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Oracle"
+                  },
+                  {
+                    "end": 24,
+                    "entity": "location",
+                    "start": 15,
+                    "value": "Ozhukarai"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Blockchain jobs at Chennai",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 29,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Blockchain"
+                  },
+                  {
+                    "end": 45,
+                    "entity": "location",
+                    "start": 38,
+                    "value": "Chennai"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for AngularJS jobs in Panvel",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 26,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "AngularJS"
+                  },
+                  {
+                    "end": 41,
+                    "entity": "location",
+                    "start": 35,
+                    "value": "Panvel"
+                  }
+                ]
+              },
+              {
+                "text": "Angular4 jobs around Bhilai",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 8,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Angular4"
+                  },
+                  {
+                    "end": 27,
+                    "entity": "location",
+                    "start": 21,
+                    "value": "Bhilai"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Python jobs in Bellary",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 25,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Python"
+                  },
+                  {
+                    "end": 41,
+                    "entity": "location",
+                    "start": 34,
+                    "value": "Bellary"
+                  }
+                ]
+              },
+              {
+                "text": "Data Science jobs in Rohtak",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 12,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Data Science"
+                  },
+                  {
+                    "end": 27,
+                    "entity": "location",
+                    "start": 21,
+                    "value": "Rohtak"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for XML jobs in Panipat",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 22,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "XML"
+                  },
+                  {
+                    "end": 38,
+                    "entity": "location",
+                    "start": 31,
+                    "value": "Panipat"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Apache Spark jobs around Chandrapur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 31,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Apache Spark"
+                  },
+                  {
+                    "end": 54,
+                    "entity": "location",
+                    "start": 44,
+                    "value": "Chandrapur"
+                  }
+                ]
+              },
+              {
+                "text": "Unix/Linux jobs at Khandwa",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 10,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Unix/Linux"
+                  },
+                  {
+                    "end": 26,
+                    "entity": "location",
+                    "start": 19,
+                    "value": "Khandwa"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for DevOps jobs around Proddatur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 25,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "DevOps"
+                  },
+                  {
+                    "end": 47,
+                    "entity": "location",
+                    "start": 38,
+                    "value": "Proddatur"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for ReactJS jobs in Nagercoil",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 24,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "ReactJS"
+                  },
+                  {
+                    "end": 42,
+                    "entity": "location",
+                    "start": 33,
+                    "value": "Nagercoil"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for HTML/JavaScript jobs near Gaya",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 34,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "HTML/JavaScript"
+                  },
+                  {
+                    "end": 49,
+                    "entity": "location",
+                    "start": 45,
+                    "value": "Gaya"
+                  }
+                ]
+              },
+              {
+                "text": "SQL Server jobs at Mangalore",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 10,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "SQL Server"
+                  },
+                  {
+                    "end": 28,
+                    "entity": "location",
+                    "start": 19,
+                    "value": "Mangalore"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for UI UX jobs at Nagpur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 22,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "UI UX"
+                  },
+                  {
+                    "end": 37,
+                    "entity": "location",
+                    "start": 31,
+                    "value": "Nagpur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Unix/Linux jobs around Satna",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 29,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Unix/Linux"
+                  },
+                  {
+                    "end": 47,
+                    "entity": "location",
+                    "start": 42,
+                    "value": "Satna"
+                  }
+                ]
+              },
+              {
+                "text": "XML jobs at Vadodara",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 3,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "XML"
+                  },
+                  {
+                    "end": 20,
+                    "entity": "location",
+                    "start": 12,
+                    "value": "Vadodara"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for a job at Sikar",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 33,
+                    "entity": "location",
+                    "start": 28,
+                    "value": "Sikar"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for CRT jobs in Danapur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 20,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "CRT"
+                  },
+                  {
+                    "end": 36,
+                    "entity": "location",
+                    "start": 29,
+                    "value": "Danapur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Python jobs near Haldia",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 25,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Python"
+                  },
+                  {
+                    "end": 42,
+                    "entity": "location",
+                    "start": 36,
+                    "value": "Haldia"
+                  }
+                ]
+              },
+              {
+                "text": "XML jobs in Tumkur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 3,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "XML"
+                  },
+                  {
+                    "end": 18,
+                    "entity": "location",
+                    "start": 12,
+                    "value": "Tumkur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for XML jobs at Orai",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 22,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "XML"
+                  },
+                  {
+                    "end": 35,
+                    "entity": "location",
+                    "start": 31,
+                    "value": "Orai"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Ui Technologies jobs at Bhopal",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 34,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Ui Technologies"
+                  },
+                  {
+                    "end": 49,
+                    "entity": "location",
+                    "start": 43,
+                    "value": "Bhopal"
+                  }
+                ]
+              },
+              {
+                "text": "Ui Technologies jobs in Udaipur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 15,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Ui Technologies"
+                  },
+                  {
+                    "end": 31,
+                    "entity": "location",
+                    "start": 24,
+                    "value": "Udaipur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for DevOps jobs near Kanpur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 25,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "DevOps"
+                  },
+                  {
+                    "end": 42,
+                    "entity": "location",
+                    "start": 36,
+                    "value": "Kanpur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Salesforce jobs at Howrah",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 29,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Salesforce"
+                  },
+                  {
+                    "end": 44,
+                    "entity": "location",
+                    "start": 38,
+                    "value": "Howrah"
+                  }
+                ]
+              },
+              {
+                "text": "Digital Marketing jobs in Proddatur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 17,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Digital Marketing"
+                  },
+                  {
+                    "end": 35,
+                    "entity": "location",
+                    "start": 26,
+                    "value": "Proddatur"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Ui Technologies jobs in Bardhaman",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 34,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Ui Technologies"
+                  },
+                  {
+                    "end": 52,
+                    "entity": "location",
+                    "start": 43,
+                    "value": "Bardhaman"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for C++ jobs in Kishanganj",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 20,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "C++"
+                  },
+                  {
+                    "end": 39,
+                    "entity": "location",
+                    "start": 29,
+                    "value": "Kishanganj"
+                  }
+                ]
+              },
+              {
+                "text": "Apache Spark jobs at Pallavaram",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 12,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Apache Spark"
+                  },
+                  {
+                    "end": 31,
+                    "entity": "location",
+                    "start": 21,
+                    "value": "Pallavaram"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for NodeJS jobs at Bathinda",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 25,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "NodeJS"
+                  },
+                  {
+                    "end": 42,
+                    "entity": "location",
+                    "start": 34,
+                    "value": "Bathinda"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Blue Prism jobs around Gangtok",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 29,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Blue Prism"
+                  },
+                  {
+                    "end": 49,
+                    "entity": "location",
+                    "start": 42,
+                    "value": "Gangtok"
+                  }
+                ]
+              },
+              {
+                "text": "Java Training jobs near Baranagar",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 13,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Java Training"
+                  },
+                  {
+                    "end": 33,
+                    "entity": "location",
+                    "start": 24,
+                    "value": "Baranagar"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Java Training jobs at Jehanabad",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 32,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Java Training"
+                  },
+                  {
+                    "end": 50,
+                    "entity": "location",
+                    "start": 41,
+                    "value": "Jehanabad"
+                  }
+                ]
+              },
+              {
+                "text": "HTML/JavaScript jobs in Sangli-Miraj & Kupwad",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 15,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "HTML/JavaScript"
+                  },
+                  {
+                    "end": 45,
+                    "entity": "location",
+                    "start": 24,
+                    "value": "Sangli-Miraj & Kupwad"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for C#.NET jobs at Kakinada",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 23,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "C#.NET"
+                  },
+                  {
+                    "end": 40,
+                    "entity": "location",
+                    "start": 32,
+                    "value": "Kakinada"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for C++ jobs around Gulbarga",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 22,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "C++"
+                  },
+                  {
+                    "end": 43,
+                    "entity": "location",
+                    "start": 35,
+                    "value": "Gulbarga"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for Apache Spark jobs in Korba",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 29,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "Apache Spark"
+                  },
+                  {
+                    "end": 43,
+                    "entity": "location",
+                    "start": 38,
+                    "value": "Korba"
+                  }
+                ]
+              },
+              {
+                "text": "Automation Anywhere jobs in Gwalior",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 19,
+                    "entity": "skill",
+                    "start": 0,
+                    "value": "Automation Anywhere"
+                  },
+                  {
+                    "end": 35,
+                    "entity": "location",
+                    "start": 28,
+                    "value": "Gwalior"
+                  }
+                ]
+              },
+              {
+                "text": "I am looking for PHP with MySQL jobs around Patiala",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 31,
+                    "entity": "skill",
+                    "start": 17,
+                    "value": "PHP with MySQL"
+                  },
+                  {
+                    "end": 51,
+                    "entity": "location",
+                    "start": 44,
+                    "value": "Patiala"
+                  }
+                ]
+              },
+              {
+                "text": "I am searching for Apache Spark jobs in Bilaspur",
+                "intent": "show_jobs",
+                "entities": [
+                  {
+                    "end": 31,
+                    "entity": "skill",
+                    "start": 19,
+                    "value": "Apache Spark"
+                  },
+                  {
+                    "end": 48,
+                    "entity": "location",
+                    "start": 40,
+                    "value": "Bilaspur"
+                  }
+                ]
+              }
+        ],
+        "regex_features":[],
+        "lookup_tables":[],
+        "entity_synonyms":[]
+    }
+}
